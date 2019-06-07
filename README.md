@@ -1,5 +1,5 @@
 # TitanicDataSet
-Working on the dataset and to find  the accuracy of the model 
+Working on the dataset and to find the accuracy of the model developed
 
 Using Random Forest and Logisitic Regression
 
